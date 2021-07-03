@@ -129,7 +129,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="#">The Word Game |<a class="brand" href="#">More Games</a>
+          <a class="brand" href="#">The Word Game |<a class="brand" href=" https://englishbolega.com/games/">More Games</a>
         </div>
       </div>
     </div>
